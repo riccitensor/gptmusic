@@ -12,7 +12,9 @@ You will need Python 3.6 or higher installed on your system. In addition, you wi
 
 pydub
 ffpyplayer
-Installing
+
+### Installing
+
 To install the required libraries, run the following commands:
 
 pip install pydub
